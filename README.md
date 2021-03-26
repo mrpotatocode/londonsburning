@@ -9,5 +9,5 @@ Having clear delineations of usage per ACORN group, per month, per half-hour wou
 
 The pilot uses cost as a deterrent for energy usage during tariffs, but if tariff labels are unknowable by machine learning models, this might otherwise suggest that the energy usage is determined much more by external factors (such as weather, household wealth, culture, and many more) than the pilot. For example, a household might ignore price tariffs to keep their house warm on a cold day and simply endure the extra cost.
 
-**Data**
+**Data:**
 Data comes from [Smart Meters of London](https://www.kaggle.com/jeanmidev/smart-meters-in-london) and is too large to be stored on GitHub. 
