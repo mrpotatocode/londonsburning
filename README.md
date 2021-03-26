@@ -14,4 +14,4 @@ Data comes from [Smart Meters of London](https://www.kaggle.com/jeanmidev/smart-
 
 Code is [here](https://github.com/mrpotatocode/londonsburning/blob/master/Project%20%7C%20London%20Smart%20Meters%20Thomas.ipynb). 
 
-Analysis, Visualization, and Model Scores are [here]https://github.com/mrpotatocode/londonsburning/blob/master/Project%20%7C%20London%20Smart%20Meters%20Thomas.ipynb.
+Analysis, Visualization, and Model Scores are [here](https://github.com/mrpotatocode/londonsburning/blob/master/Project%20%7C%20London%20Smart%20Meters%20Thomas.ipynb).
