@@ -11,3 +11,7 @@ The pilot uses cost as a deterrent for energy usage during tariffs, but if tarif
 
 **Data:**
 Data comes from [Smart Meters of London](https://www.kaggle.com/jeanmidev/smart-meters-in-london) and is too large to be stored on GitHub. 
+
+Code is [here](https://github.com/mrpotatocode/londonsburning/blob/master/Project%20%7C%20London%20Smart%20Meters%20Thomas.ipynb). 
+
+Analysis, Visualization, and Model Scores are [here]https://github.com/mrpotatocode/londonsburning/blob/master/Project%20%7C%20London%20Smart%20Meters%20Thomas.ipynb.
